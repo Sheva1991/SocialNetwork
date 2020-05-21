@@ -1,0 +1,15 @@
+.item {
+    display: flex;
+    flex-direction: column;
+}
+
+.item textarea {
+    width: 80%;
+    margin: 0 auto;
+    height: 50px;
+}
+
+.item button {
+    align-self: flex-end;
+    margin-right: 10%;
+}

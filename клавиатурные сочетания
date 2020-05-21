@@ -1,0 +1,8 @@
+npx create-react-app my-app - создаем приложение react с названием my-app
+cd my-app - переходим в папку с проектом
+npm start - запускаем приложение
+
+npm i react-router-dom -save - установка в приложение маршрутизатор; -save -вносит в package.gson
+
+
+Экстеншн vscode-js-import, хоткей ctrl+alt+h. для авто-импорта, если не работает ctrl+пробел

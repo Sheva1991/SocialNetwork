@@ -1,0 +1,49 @@
+.image {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.description {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    width: 100%;
+}
+
+.avatar {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.ava {
+    max-width: 200px;
+    display: flex;
+}
+
+.desc {
+    flex-grow: 1;
+}
+
+.descriptionBlock {
+    padding: 10px;
+}
+
+.mainPhoto {
+    max-width: 200px;
+}
+
+.contact {
+    padding-left: 10px;
+}
+
+.edit {
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+}
+
+.editBtn {
+    position: absolute;
+    right: 0;
+    top: 0;
+}

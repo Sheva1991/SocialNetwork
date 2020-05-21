@@ -1,0 +1,16 @@
+.item {
+    display: flex;
+    flex-direction: column;
+}
+
+.item textarea {
+    width: 100%;
+    margin: 0 auto;
+    height: 50px;
+    resize: none;
+}
+
+.item button {
+    align-self: flex-end;
+    padding: 5px;
+}

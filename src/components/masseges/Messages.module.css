@@ -1,0 +1,19 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+}
+
+.dialogItems {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+
+.messages {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    padding-left: 20px;
+}
